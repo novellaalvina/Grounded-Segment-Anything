@@ -11,11 +11,11 @@ pycocotools
 PyYAML
 requests
 setuptools
-supervision
+supervision==0.7.0
 termcolor
 timm
-torch
-torchvision
+torch==2.5.1
+torchvision==0.20.1
 transformers
 yapf
 nltk
